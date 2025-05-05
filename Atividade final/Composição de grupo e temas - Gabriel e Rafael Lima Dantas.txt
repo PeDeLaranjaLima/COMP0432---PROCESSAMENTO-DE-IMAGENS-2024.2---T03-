@@ -1,0 +1,10 @@
+Grupo:
+
+- Gabriel Lima Dantas;
+- Rafael  Lima Dantas.
+
+Temas:
+
+1) Leitor de código de barras 1D;
+2) Leitor de código de barras 2D;
+3) Detecção de placas de veículos.
